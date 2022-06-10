@@ -2,19 +2,12 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1.0.0",
-    "title": "DOCUMENTATION",
+    "title": "TX Doc",
     "description": "",
-    "termsOfService": "YOUR_TERMS_OF_SERVICE_URL",
-    "contact": {
-      "name": "TEAM",
-      "email": "contact-email@something.io",
-      "url": "mywebsite.io"
-    },
-    "license": {
-      "name": "Apache 2.0",
-      "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
-    },
-    "x-generation-date": "2022-06-10T10:19:36.427Z"
+    "termsOfService": null,
+    "contact": null,
+    "license": null,
+    "x-generation-date": "2022-06-10T11:32:21.192Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -29,12 +22,12 @@
   "servers": [
     {
       "url": "http://localhost:1337/api",
-      "description": "Development server"
+      "description": ""
     }
   ],
   "externalDocs": {
-    "description": "Find out more",
-    "url": "https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html"
+    "description": "http://localhost:1337/api/openapi",
+    "url": "/api/openapi"
   },
   "security": [
     {

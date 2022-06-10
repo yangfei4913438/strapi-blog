@@ -1,0 +1,20 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "TX Doc",
+    "contact": null,
+    "termsOfService": null,
+    "license": null
+  },
+  "servers": [
+    {
+      "url": "http://localhost:1337/api",
+      "description": ""
+    }
+  ],
+  "externalDocs": {
+    "url": "/api/openapi",
+    "description": "http://localhost:1337/api/openapi"
+  }
+}
