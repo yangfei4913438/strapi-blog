@@ -7,6 +7,7 @@ export default {
         "app.components.LeftMenu.navbrand.title": "Strapi 仪表盘",
         "app.components.LeftMenu.navbrand.workplace": "工作空间",
         "app.components.Onboarding.help.button": "帮助按钮",
+        "components.FilterOptions.FILTER_TYPES.$neq": "不等于",
 
         "global.save": "保存",
         "global.plugins": "插件",
