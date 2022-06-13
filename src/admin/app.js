@@ -6,7 +6,7 @@ export default {
       "zh-Hans": {
         "app.components.LeftMenu.navbrand.title": "Strapi 仪表盘",
         "app.components.LeftMenu.navbrand.workplace": "工作空间",
-        "app.components.Onboarding.help.button": "帮助",
+        "app.components.Onboarding.help.button": "帮助按钮",
 
         "global.save": "保存",
         "global.plugins": "插件",
@@ -19,8 +19,11 @@ export default {
         "global.type": "类型",
 
         "global.content-manager": "内容管理",
+        "global.delete-target": "删除 {target}",
 
         "content-manager.components.LeftMenu.collection-types": "集合类型",
+        "containers.SettingPage.editSettings.description": "拖放字段来构建布局",
+        "containers.SettingPage.add.relational-field": "插入另一个关系字段",
 
         "content-type-builder.plugin.name": "内容类型生成器",
         "content-type-builder.menu.section.models.name": "集合类型",
